@@ -134,13 +134,11 @@ GEM
     uglifier (2.7.1)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
-      rake (10.1.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  gem 'rake', '~> 10.1'
   bootstrap-sass (~> 3.3.1)
   font-awesome-sass (~> 4.2.0)
   jquery-middleman

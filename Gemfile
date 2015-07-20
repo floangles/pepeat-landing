@@ -23,6 +23,6 @@ gem 'font-awesome-sass', '~> 4.2.0'
 
 gem 'puma', '~> 2.7'
 
-gem 'rake', '~> 10.1'
+
 
 
