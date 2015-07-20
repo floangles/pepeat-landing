@@ -1,7 +1,7 @@
 $(document).ready(function() {
   // navbar transition jQuery script
   $(window).scroll(function(e){
-    if ($(this).scrollTop() > 750) {
+    if ($(this).scrollTop() > 690) {
       $(".navbar").css({
         "background": "rgba(2,2,2,0.85)",
         "box-shadow": "0 0 2px black"
@@ -14,7 +14,7 @@ $(document).ready(function() {
       });
     }
   });
-  if ($(this).scrollTop() > 750) {
+  if ($(this).scrollTop() > 690) {
       $(".navbar").css({
         "background": "rgba(2,2,2,0.8)",
         "box-shadow": "0 0 2px black"

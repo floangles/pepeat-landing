@@ -1,3 +1,14 @@
 // Your footer style
 
 
+.footer {
+  color: white;
+  background-color: black;
+  padding: 100px;
+   padding: 8% 0;
+
+
+   &-copy {
+    padding: 0% 0;
+   }
+}
