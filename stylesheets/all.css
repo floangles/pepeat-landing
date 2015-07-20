@@ -8898,6 +8898,16 @@ button.close {
 .fa-meanpath:before {
   content: ""; }
 
+/* line 4, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/layout/_footer.css.scss */
+.footer {
+  color: white;
+  background-color: black;
+  padding: 100px;
+  padding: 8% 0; }
+  /* line 11, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/layout/_footer.css.scss */
+  .footer-copy {
+    padding: 0% 0; }
+
 /* -------------------------------------
  * Colors & Fonts
  * ------------------------------------- */
@@ -9091,11 +9101,11 @@ button.close {
   background-image: url("../images/banner.jpg");
   background-size: cover;
   background-position: center center;
-  height: 800px; }
+  height: 700px; }
 
 /* line 21, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .content {
-  padding: 400px 200px; }
+  padding: 300px 200px; }
   /* line 23, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
   .content h1 {
     font-size: 54px;
