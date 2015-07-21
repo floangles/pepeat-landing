@@ -15,7 +15,7 @@ html, body {
 
 #banner {
 
-  background-image: image-url('banner.jpg');
+  background-image: image-url('rsz_banner.jpg');
   background-size: cover;
   background-position: center center;
   width:100%;
@@ -76,6 +76,8 @@ html, body {
 
 .title-avantage {
   color: black;
+  padding-right: 10px;
+  padding-left: 10px;
   padding-top: 80px;
   font-size: 28px;
 }
