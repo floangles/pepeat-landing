@@ -26,6 +26,14 @@ html, body {
 
 
 .content {
+
+  h3 {
+  font-family: 'Tangerine', cursive;
+  font-size: 140px;
+  padding-top: 90px;
+  color: #E7B336;
+  text-shadow: 1px 1px grey;
+  }
   h1 {
 
   font-size: 3.5vw;
@@ -35,7 +43,7 @@ html, body {
   text-transform: none;
   letter-spacing: 0px;
   padding-bottom: 50px;
-  padding-top: 300px;
+  padding-top: 60px;
   padding-bottom: 60px;
   }
   h2{
@@ -189,5 +197,15 @@ padding-top: 40px;
   padding-top: 30px;
 }
 
+.picture-chef {
+  position: relative;
+}
 
+.img-chef {
+  height: 70px;
+  width: 70px;
+  position: absolute;
+  bottom: 31px;
+  left: 896px;
+}
 
