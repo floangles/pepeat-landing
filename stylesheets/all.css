@@ -9108,7 +9108,14 @@ html, body {
   max-height: 100%;
   min-height: 100%; }
 
-/* line 29, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 30, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+.content h3 {
+  font-family: 'Tangerine', cursive;
+  font-size: 140px;
+  padding-top: 90px;
+  color: #E7B336;
+  text-shadow: 1px 1px grey; }
+/* line 37, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .content h1 {
   font-size: 3.5vw;
   line-height: 1.35em;
@@ -9117,9 +9124,9 @@ html, body {
   text-transform: none;
   letter-spacing: 0px;
   padding-bottom: 50px;
-  padding-top: 300px;
+  padding-top: 60px;
   padding-bottom: 60px; }
-/* line 41, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 49, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .content h2 {
   color: #C2C2C2;
   font-size: 3.5vw;
@@ -9129,27 +9136,27 @@ html, body {
   letter-spacing: 0px;
   font-weight: 200; }
 
-/* line 53, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 61, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 #home {
   height: auto; }
 
-/* line 57, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 65, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .title {
   padding-top: 80px;
   padding-bottom: 20px; }
 
-/* line 63, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 71, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .description {
   font-size: 19px;
   line-height: 1.7em;
   padding: 50px 20px; }
 
-/* line 70, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 78, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 #avantages {
   background-color: white;
   height: auto; }
 
-/* line 77, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 85, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .title-avantage {
   color: black;
   padding-right: 10px;
@@ -9157,60 +9164,60 @@ html, body {
   padding-top: 80px;
   font-size: 28px; }
 
-/* line 85, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 93, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .forme {
   padding-top: 40px; }
 
-/* line 90, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 98, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .text-description {
   font-size: 15px; }
 
-/* line 95, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 103, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .three-element {
   padding: 40px; }
 
-/* line 99, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 107, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 #cuistot {
   padding-top: 80px;
   padding-bottom: 80px; }
 
-/* line 105, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 113, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .card {
   background-color: #E7B336;
   height: 350px;
   width: auto; }
-  /* line 109, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+  /* line 117, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
   .card-logo {
     padding-top: 30px; }
-  /* line 112, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+  /* line 120, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
   .card-text {
     color: white;
     padding-top: 40px;
     font-size: 30px; }
 
-/* line 119, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 127, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .text-cuistot {
   padding-top: 30px;
   font-size: 20px;
   line-height: 1.7em; }
 
-/* line 126, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 134, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .carousel-style {
   width: 100%;
   height: auto; }
 
-/* line 132, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 140, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .carousel-size {
   width: 100%;
   max-height: 700px !important; }
 
-/* line 138, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 146, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 #share {
   background-color: white;
   height: 100px;
   vertical-align: middle; }
 
-/* line 145, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 153, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .sticker {
   width: 110px;
   height: 110px;
@@ -9218,36 +9225,48 @@ html, body {
   float: none;
   margin: 0 auto; }
 
-/* line 156, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 164, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .avtg-circle .sticker-img {
   background-image: url("../images/money.png");
   background-size: cover;
   background-position: center center; }
 
-/* line 163, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 171, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .avtg-circle2 .sticker-img {
   background-image: url("../images/community.png");
   background-size: cover;
   background-position: center center; }
 
-/* line 170, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 178, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .avtg-circle3 .sticker-img {
   background-image: url("../images/quality.png");
   background-size: cover;
   background-position: center center; }
 
-/* line 178, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 186, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .avtg-circle .sticker-shadow {
   opacity: 0.6; }
 
-/* line 183, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 191, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .title-avtg {
   padding-top: 20px;
   padding-bottom: 20px; }
 
-/* line 188, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+/* line 196, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .link-form {
   padding-top: 30px; }
+
+/* line 200, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+.picture-chef {
+  position: relative; }
+
+/* line 204, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+.img-chef {
+  height: 70px;
+  width: 70px;
+  position: absolute;
+  bottom: 31px;
+  left: 896px; }
 
 /*
 ==============================================
