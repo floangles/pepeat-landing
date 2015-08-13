@@ -27,14 +27,14 @@ html, body {
 
 .content {
   h3 {
-  font-size: 7vw !important;
+  font-size: 80px;
   font-family: 'Raleway', sans-serif;
   padding-top: 90px;
   color: #E7B336;
   text-shadow: 1px 1px grey;
   }
   h1 {
-  font-size: 3.5vw;
+  font-size: 60px;
   line-height: 1.35em;
   font-weight: 100;
   font-family: 'Raleway', sans-serif;
@@ -46,7 +46,7 @@ html, body {
   }
   h2{
   color: #C2C2C2;
-  font-size: 3.5vw;
+  font-size: 50px;
   line-height: 1.35em;
   font-family: 'Dancing Script', cursive;
   text-transform: none;
@@ -206,4 +206,22 @@ padding-top: 40px;
   bottom: 31px;
   left: 896px;
 }
+
+
+@media only screen and (min-width : 1224px) {
+
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  .content h1 {font-size: 30px;}
+  .content h2 {font-size: 26px;}
+}
+
+
 
