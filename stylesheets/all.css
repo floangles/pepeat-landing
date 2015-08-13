@@ -9110,14 +9110,14 @@ html, body {
 
 /* line 29, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .content h3 {
-  font-size: 7vw !important;
+  font-size: 80px;
   font-family: 'Raleway', sans-serif;
   padding-top: 90px;
   color: #E7B336;
   text-shadow: 1px 1px grey; }
 /* line 36, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .content h1 {
-  font-size: 3.5vw;
+  font-size: 60px;
   line-height: 1.35em;
   font-weight: 100;
   font-family: 'Raleway', sans-serif;
@@ -9129,7 +9129,7 @@ html, body {
 /* line 47, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
 .content h2 {
   color: #C2C2C2;
-  font-size: 3.5vw;
+  font-size: 50px;
   line-height: 1.35em;
   font-family: 'Dancing Script', cursive;
   text-transform: none;
@@ -9268,6 +9268,16 @@ html, body {
   bottom: 31px;
   left: 896px; }
 
+/* Portrait tablet to landscape and desktop */
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  /* line 222, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+  .content h1 {
+    font-size: 30px; }
+
+  /* line 223, /Users/batflo/code/floangles/pepeat-landing/source/stylesheets/pages/_home.css.scss */
+  .content h2 {
+    font-size: 26px; } }
 /*
 ==============================================
 CSS3 ANIMATION CHEAT SHEET
